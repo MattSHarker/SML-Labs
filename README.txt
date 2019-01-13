@@ -1,6 +1,3 @@
-# SML Lab 1
-
-
 This program provides four functions in SML with the intent of creating lists of prime numbers.
 
 fun makeLst (n)
